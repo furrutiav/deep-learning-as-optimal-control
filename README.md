@@ -1,8 +1,12 @@
 # Entender el *aprendizaje profundo* como un problema de *control óptimo*
 
-Equipo:
+**Equipo:**
 - Felipe Urrutia
 - Daniel Minaya
+
+**Reporte final:** [🖼️ Aqui!](https://github.com/furrutiav/deep-learning-as-optimal-control/blob/main/Reporte_Final.pdf)
+
+**Poster:** [🪧 Aqui!](https://github.com/furrutiav/deep-learning-as-optimal-control/blob/main/Poster.pdf)
 
 # Cuadernos
 
